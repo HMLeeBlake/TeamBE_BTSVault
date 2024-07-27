@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "2d36676a3d2d17de",
+    "type": "split",
+    "children": [
+      {
+        "id": "e65ccb887d05a597",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b56029f386cf33b2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "20b353f990ced0b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "09e706ae761d1c05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74a1a0dc5fa5d5ce",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "11cb8524bf631819",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3d87ab2771d3cfbb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3e12fc6decc6c0f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d224830932bf21f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75b09fb00e2dd789",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9c621584bb21f5e9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "52ef6cfc64227ce0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "606f3c2fd8f9058b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "74a1a0dc5fa5d5ce",
+  "lastOpenFiles": [
+    "50.CollabEnvironDev/4.Vim",
+    "50.CollabEnvironDev/무제 폴더",
+    "50.CollabEnvironDev/00.Inbox",
+    "50.CollabEnvironDev/0.BigPic",
+    "50.CollabEnvironDev/0.BiggerPic",
+    "50.CollabEnvironDev/3.Zotero",
+    "50.CollabEnvironDev/3.Zoitero",
+    "50.CollabEnvironDev/3.J",
+    "50.CollabEnvironDev/2.Git",
+    "50.CollabEnvironDev/1.Obsidian",
+    "30.Research&Development/0_Programming/2.C_pp",
+    "Untitled.md"
+  ]
+}
